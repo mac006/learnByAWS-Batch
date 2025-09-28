@@ -17,7 +17,7 @@ In this lab, you will set up AWS CloudTrail to log API activity across multiple 
 - explore CloudWatch Logs option, enable it and choose the appropriate role and log group name.
 - Click Next
 - Here you will see option to collect different types of event, choose default and click next
-5. Create trail.
+6. Create trail.
 
 ### Step 2: Verify Log Storage in S3
 
