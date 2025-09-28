@@ -18,19 +18,3 @@
 
 
 
-1011  aws sts get-caller-identity
- 1012  aws s3 help
- 1013  aws s3 ls
- 1014  aws s3 ls
- 1015  aws s3 mb s3://rashi-bucket-11111
- 1016  ls
- 1017  cat file.txt
- 1018  aws s3 cp file.txt s3://rashi-bucket-11111
- 1019  aws s3 rm file.txt s3://rashi-bucket-11111
- 1020  aws s3 rm help
- 1021  aws s3 rm s3://rashi-bucket-11111 \
- 1022  aws s3 rm s3://rashi-bucket-11111 /file.txt
- 1023  aws s3 rm s3://rashi-bucket-11111/file.txt
- 1024  aws s3 rb s3://rashi-bucket-11111
- 1025  aws s3 rb s3://test-rashi-0000001
- 1026  aws s3 ls
