@@ -1,0 +1,7 @@
+VPC with Networking
+
+Objective: Build a simple network stack.
+
+1. Create a VPC, Subnet, Internet Gateway, and Route Table.
+2. Launch an EC2 instance inside the subnet.
+3. Verify you can SSH into it.
